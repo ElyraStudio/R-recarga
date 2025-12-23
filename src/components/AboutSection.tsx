@@ -41,7 +41,7 @@ const AboutSection = () => {
                 A <strong className="text-foreground">R-Recarga</strong> é uma empresa consolidada no mercado de assistência técnica de impressoras e recarga de cartuchos, com mais de 15 anos de atuação em Gravataí e região metropolitana.
               </p>
               <p>
-                Nossa equipe é formada por técnicos especializados que oferecem soluções completas para manutenção preventiva e corretiva de impressoras das principais marcas do mercado.
+                A equipe oferece soluções completas para manutenção preventiva e corretiva de impressoras das principais marcas do mercado.
               </p>
               <p>
                 Atendemos desde pequenos escritórios residenciais até grandes empresas, sempre com o compromisso de entregar <strong className="text-foreground">qualidade, agilidade e economia</strong> em cada serviço.
